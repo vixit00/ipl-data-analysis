@@ -15,8 +15,6 @@ This project explores IPL ball-by-ball data (2008–2022) to uncover top perform
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/vixit00/ipl-data-analysis.git
-
    pip install -r requirements.txt
-   
-jupyter notebook IPL_Player_Analysis.ipynb
+   jupyter notebook IPL_Player_Analysis.ipynb
 
